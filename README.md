@@ -1,5 +1,10 @@
 # Scrapper
 
+## About project
+Reuploaded from https://gitlab.com/42plat0/scrapper-student-template.
+Passed all tests on platforms test including plain rss, json outputs and manipulation, online rss's. 
+
+
 ### Common Requirements
 * Code must correspond to `pep8` (use `pycodestyle` utility for self-check).
   * You can set line lengths up to 120 symbols.
